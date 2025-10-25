@@ -53,10 +53,12 @@ def bmi_calculator():
     again = input("\nWould you like to calculate again? (y/n): ").strip().lower()
     if again != 'y':
         print("\nThank you for using the BMI Calculator! Stay healthy 🌱")
+        break
 
 
 
 #Run the Program
 
 bmi_calculator()
+
     
