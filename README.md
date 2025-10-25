@@ -1,8 +1,8 @@
-# 💪 Advanced BMI Calculator
+# Advanced BMI Calculator
 
 A simple yet **interactive Python program** that helps users calculate their **Body Mass Index (BMI)**, understand their **health category**, and receive **personalized wellness advice** based on **WHO standards**.
 
-## 🚀 Features
+## Features
 
 - 🧍‍♂️ **Personalized User Input** – Enter your name, weight (kg), and height (cm).  
 - ⚙️ **Automatic BMI Calculation** – Calculates BMI using the standard formula:  
@@ -17,7 +17,7 @@ A simple yet **interactive Python program** that helps users calculate their **B
 - 🌱 **Friendly Interface** – Includes emojis and clear visual formatting for readability.
 
 
-## 🖥️ Example Output
+## Example Output
 
 ```
 ========================================
@@ -43,11 +43,11 @@ Obesity: ≥ 30
 ```
 
 
-## 🧩 How to Run
+## How to Run
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/fasibor/advanced-bmi-calculator.git
+   git clone https://github.com/fasibor/BMI_Calculator.git
    ```
 2. Navigate to the project folder:  
    ```bash
@@ -59,7 +59,7 @@ Obesity: ≥ 30
    ```
 
 
-## 🧠 Future Enhancements
+## Future Enhancements
 
 Here are some ideas for improving the project:
 - 🗓 Save BMI results to a file or database for progress tracking  
@@ -67,6 +67,6 @@ Here are some ideas for improving the project:
 - ⚡ Suggest calorie intake and exercise routines  
 - 🖥️ Add a **GUI version** using Tkinter or Streamlit  
 
-## 📜 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
